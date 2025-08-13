@@ -38,5 +38,5 @@ Data Analytics Certified (Jobaaj Learnings) | Skilled in managing large datasets
      - ![Broken Image01](https://cdn-icons-png.flaticon.com/128/1138/1138869.png) recognized for excellence in music education and student engagement. ![Broken Image02](https://cdn-icons-png.flaticon.com/128/9107/9107997.png)
 > 🎶 A passionate Music Tutor (Freelance), blending creativity from the arts with precision in analytics.
 🚀 Constantly learning, exploring, and applying new tools to solve real-world problems.
+
 >![LeetCode Stats](https://leetcard.jacoblin.cool/Vijayarani?theme=forest&font=Old%20Standard%20TT&ext=contest)
--->
