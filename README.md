@@ -3,7 +3,7 @@
 <h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="__Certified_in_Data_Analytics___Bridging_Technology__People__2"></a><em>📊 Certified in Data Analytics | 🤝 Bridging Technology &amp; People</em></h3>
 <blockquote>
 <p class="has-line-data" data-line-start="3" data-line-end="5"><strong><em>Studied in:</em></strong><br>
-Data Analytics Certified (Jobaaj Learnings) | Skilled in managing large datasets and delivering insights using below tools:</p>
+<em>Data Analytics Certified (Jobaaj Learnings) | Skilled in managing large datasets and delivering insights using below tools:</em></p>
 </blockquote>
 <ul>
 <li class="has-line-data" data-line-start="5" data-line-end="7">
@@ -49,19 +49,19 @@ Data Analytics Certified (Jobaaj Learnings) | Skilled in managing large datasets
 <li class="has-line-data" data-line-start="20" data-line-end="22">
 <blockquote>
 <p class="has-line-data" data-line-start="20" data-line-end="22">✅ <mark><strong><em>Excel</em></strong></mark> – Sales Data Analysis &amp; Interactive Dashboard with Final Presentation.<br>
-<input type="checkbox" id="checkbox114" checked="true"><label for="checkbox114">Uploaded Sales Dataset to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox18" checked="true"><label for="checkbox18">Uploaded Sales Dataset to GitHub Repository</label></p>
 </blockquote>
 </li>
 <li class="has-line-data" data-line-start="22" data-line-end="24">
 <blockquote>
 <p class="has-line-data" data-line-start="22" data-line-end="24">✅ <mark><strong><em>Power BI</em></strong></mark> – Sales Analysis &amp; Storytelling Dashboard with Key Insights.<br>
-<input type="checkbox" id="checkbox115" checked="true"><label for="checkbox115">Uploaded Sales Dataset to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox19" checked="true"><label for="checkbox19">Uploaded Sales Dataset to GitHub Repository</label></p>
 </blockquote>
 </li>
 <li class="has-line-data" data-line-start="24" data-line-end="26">
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">✅ <mark><strong><em>Looker Studio</em></strong></mark> – Online Advertisement Data Analysis &amp; Storytelling Dashboard with Key Insights.<br>
-<input type="checkbox" id="checkbox116" checked="true"><label for="checkbox116">Uploaded Online Ad Data Analysis to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox20" checked="true"><label for="checkbox20">Uploaded Online Ad Data Analysis to GitHub Repository</label></p>
 </blockquote>
 </li>
 </ul>
