@@ -44,24 +44,24 @@
 </li>
 </ul>
 <h2 class="code-line" data-line-start=18 data-line-end=19 ><a id="Heres_My__PortfoliohttpsgithubcomVijayarani146__18"></a>Here’s My 📈 <a href="https://github.com/Vijayarani146/">Portfolio</a> 🚀</h2>
-<p class="has-line-data" data-line-start="19" data-line-end="20"><strong><em>My Portfolio Projects:</em></strong></p>
+<p class="has-line-data" data-line-start="19" data-line-end="20"><strong><em>✅ My Portfolio Featured Projects:</em></strong></p>
 <ul>
 <li class="has-line-data" data-line-start="20" data-line-end="22">
 <blockquote>
 <p class="has-line-data" data-line-start="20" data-line-end="22">✅ <mark><strong><em>Excel</em></strong></mark> – Sales Data Analysis &amp; Interactive Dashboard with Final Presentation.<br>
-<input type="checkbox" id="checkbox18" checked="true"><label for="checkbox18">Uploaded Sales Dataset to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox93" checked="true"><label for="checkbox93">Interactive sales insights with final presentation.</label></p>
 </blockquote>
 </li>
 <li class="has-line-data" data-line-start="22" data-line-end="24">
 <blockquote>
 <p class="has-line-data" data-line-start="22" data-line-end="24">✅ <mark><strong><em>Power BI</em></strong></mark> – Sales Analysis &amp; Storytelling Dashboard with Key Insights.<br>
-<input type="checkbox" id="checkbox19" checked="true"><label for="checkbox19">Uploaded Sales Dataset to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox94" checked="true"><label for="checkbox94">Designed with advanced visual insights and storytelling.</label></p>
 </blockquote>
 </li>
 <li class="has-line-data" data-line-start="24" data-line-end="26">
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">✅ <mark><strong><em>Looker Studio</em></strong></mark> – Online Advertisement Data Analysis &amp; Storytelling Dashboard with Key Insights.<br>
-<input type="checkbox" id="checkbox20" checked="true"><label for="checkbox20">Uploaded Online Ad Data Analysis to GitHub Repository</label></p>
+<input type="checkbox" id="checkbox95" checked="true"><label for="checkbox95">Data analysis with storytelling dashboard and key insights.</label></p>
 </blockquote>
 </li>
 </ul>
